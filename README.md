@@ -1,6 +1,9 @@
 # vschool-workshop-react-router-dom-start
 
 Clone the repository
+```
+git clone git@github.com:lucilejones/vschool-workshop-react-router-dom-start.git
+```
 
 Remove the .git directory
 ```
